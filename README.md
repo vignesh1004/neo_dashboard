@@ -18,6 +18,7 @@ A Streamlit-based web dashboard that visualizes asteroid data from NASA's API, s
 ![Queries Page](assets/queries_page.png)
 
 How It Works
+    
 1️⃣ Data Fetching
 data_fetch/fetch_nasa_data.py → Fetches asteroid data from NASA API.
 
