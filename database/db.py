@@ -8,9 +8,9 @@ import pandas as pd
 # ------------------------------
 def get_connection():
     return mysql.connector.connect(
-        host='localhost',
-        user='root',
-        password='Password',
+        host=' ',
+        user=' ',
+        password=' ',
         database='NEO_DB'
     )
 
